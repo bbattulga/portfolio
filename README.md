@@ -6,6 +6,7 @@ Full Stack Developer, experienced in programming and various Tech stack. I have 
 - Backend Development (Spring boot, Node.js, Golang, SQL, MongoDB)
 - Frontend Development (React.js, Next.js, Svelte, Flutter)
 - Mobile Application Development (Flutter, React Native)
+- Private blockchain (Hyperledger Fabric)
 - Firebase
 - AWS, GCP etc
 - Kubernetes
